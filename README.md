@@ -15,6 +15,6 @@ You can use these parameters but apparently they only work if you have the lates
 
 Also using --allow-outdated-plugins alone does not work.
 
-Other than that it works great, and on multiprocessor systems, it screams!
+Finally, it has tiny, invisible scrollbars and no file menu.
 
-In summary and in conclusion (Tim Calhoun reference: http://www.nbc.com/saturday-night-live/video/update-sen-tim-calhoun/n12210) Google Chrome SUCKS!
+Other than that it works great, and on multiprocessor systems, it screams!
